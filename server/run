@@ -1,0 +1,7 @@
+javac src/server/*.java
+
+cd src
+java server/Main
+cd ..
+
+rm src/server/*.class

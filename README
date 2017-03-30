@@ -1,0 +1,20 @@
+name:
+	Joseph Robertson
+
+url:
+	https://github.com/JosephRob/Assignment2_100579703.git
+
+additions that I chose:
+	When choosing uploads the choices will be displayed as a tree view of 
+	the contents of the directory and all the sub directories.
+	The file that you selected at the start can be changed while the program
+	is running
+
+notes:
+	The lists in the UI update every 7.5 seconds.
+	when the UI is updated the lists will deselect your current input.
+	The sever and client programs can both be run from run scripts within their
+	project files, but the starting directory in the default run script is the
+	cilent directory and IP is local host.
+	The downloaded files will be stored in the client directory regardless of
+	which directory the client is in.
